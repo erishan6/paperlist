@@ -1,4 +1,4 @@
-# paperlist
+# Stylelayer
 
 | paper                                                        | status       | link/tag                                                     |
 | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
@@ -13,4 +13,13 @@
 | Disentangling Correlated Speaker and Noise for Speech Synthesis via Data Augmentation and Adversarial Factorization                   | in progress     | https://openreview.net/pdf?id=Bkg9ZeBB37                        |
 | VOICELOOP: VOICE FITTING AND SYNTHESIS VIA A PHONOLOGICAL LOOP                   | v. imp but not done     | https://arxiv.org/pdf/1707.06588.pdf                        |
 | Principles for learning controllable TTS from annotated and latent variation                   | imp but not done     | https://www.isca-speech.org/archive/Interspeech_2017/pdfs/0171.PDF                        |
+
+
+# Emotion
+
+| paper                                                        | status       | link/tag                                                     |
+| ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
 | Attentive Convolutional Neural Network based Speech Emotion Recognition: A Study on the Impact of Input Features, Signal Length, and Acted Speech       | in progress     | https://arxiv.org/pdf/1706.00612.pdf                        |
+| Emotional Statistical Parametric Speech Synthesis Using LSTM-RNNs| in progress     | https://ieeexplore.ieee.org/document/8282282                        |
+| An Investigation to Transplant Emotional Expressions in DNN-based TTS Synthesis Synthesis| in progress     | https://ieeexplore.ieee.org/document/8282231                       |
+| A Style Control Technique for HMM-Based Speech Synthesis| in progress     | https://www.researchgate.net/profile/Takashi_Nose/publication/220242608_A_Style_Control_Technique_for_HMM-Based_Expressive_Speech_Synthesis/links/547e0cc80cf2de80e7cc4152/A-Style-Control-Technique-for-HMM-Based-Expressive-Speech-Synthesis.pdf?origin=publication_detail                        |

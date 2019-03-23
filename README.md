@@ -1,5 +1,8 @@
 # Stylelayer
 
+Text-to-Speech Synthesis by Paul Taylor
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.5905&rep=rep1&type=pdf
+
 | paper                                                        | status       | link/tag                                                     |
 | ------------------------------------------------------------ | ------------ | ---------------------------------- |
 |  Tacotron: Towards End-to-End Speech Synthesis                                 | finished     | https://arxiv.org/pdf/1703.10135.pdf                      

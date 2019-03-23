@@ -1,7 +1,7 @@
 # Stylelayer
 
 | paper                                                        | status       | link/tag                                                     |
-| ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
+| ------------------------------------------------------------ | ------------ | ---------------------------------- |
 |  Tacotron: Towards End-to-End Speech Synthesis                                 | finished     | https://arxiv.org/pdf/1703.10135.pdf                      
 | Uncovering Latent Style Factors for Expressive Speech Synthesis| finished     | https://arxiv.org/pdf/1711.00520.pdf                        |
 | Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions                                      | finished     | https://arxiv.org/pdf/1712.05884.pdf https://ai.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html                        |
@@ -18,8 +18,8 @@
 # Emotion
 
 | paper                                                        | status       | link/tag                                                     |
-| ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
-| Attentive Convolutional Neural Network based Speech Emotion Recognition: A Study on the Impact of Input Features, Signal Length, and Acted Speech       | in progress     | https://arxiv.org/pdf/1706.00612.pdf                        |
+| ---------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------ |
+| Attentive Convolutional Neural Network based Speech Emotion Recognition: A Study on the Impact of Input Features, Signal Length, and Acted Speech | in progress     | https://arxiv.org/pdf/1706.00612.pdf                        |
 | Emotional Statistical Parametric Speech Synthesis Using LSTM-RNNs| in progress     | https://ieeexplore.ieee.org/document/8282282                        |
 | An Investigation to Transplant Emotional Expressions in DNN-based TTS Synthesis Synthesis| in progress     | https://ieeexplore.ieee.org/document/8282231                       |
-| A Style Control Technique for HMM-Based Speech Synthesis| in progress     | https://www.researchgate.net/profile/Takashi_Nose/publication/220242608_A_Style_Control_Technique_for_HMM-Based_Expressive_Speech_Synthesis/links/547e0cc80cf2de80e7cc4152/A-Style-Control-Technique-for-HMM-Based-Expressive-Speech-Synthesis.pdf?origin=publication_detail                        |
+| A Style Control Technique for HMM-Based Speech Synthesis                            | in progress     | https://goo.gl/Y9caHX                        |

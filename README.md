@@ -38,8 +38,8 @@ https://arxiv.org/pdf/1406.1078.pdf
 | Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
 | Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
 | PROTRAN: a prosody transplantation tool for text-to-speech applications                            | idea. not started     | https://www.isca-speech.org/archive/archive_papers/icslp_1994/i94_0423.pdf                        |
-| Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
-| Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
+| Expressive Speech Synthesis via Modeling Expressions with Variational Autoencoder                            | idea. not started     | https://arxiv.org/pdf/1804.02135.pdf                        |
+| Learning Latent Representations for Speech Generation and Transformation                            | idea. not started     | https://arxiv.org/pdf/1704.04222.pdf                        |
 | Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
 
 

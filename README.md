@@ -20,6 +20,8 @@ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.5905&rep=rep1&type=
 | Rapid Style Adaptation Using Residual Error Embedding for Expressive Speech Synthesis                            | not started     | https://goo.gl/Jy8WvF                        |
 | Neural Discrete Representation Learning                            | idea. not started     | https://arxiv.org/pdf/1711.00937.pdf                        |
 | Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data                            | idea. not started     | https://arxiv.org/pdf/1709.07902.pdf                        |
+| Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
+| Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
 
 
 # Emotion

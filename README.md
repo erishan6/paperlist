@@ -18,6 +18,9 @@ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.5905&rep=rep1&type=
 | Principles for learning controllable TTS from annotated and latent variation                   | imp but not done not started | https://www.isca-speech.org/archive/Interspeech_2017/pdfs/0171.PDF                        |
 | A Style Control Technique for HMM-Based Speech Synthesis                            | not started     | https://goo.gl/Y9caHX                        |
 | Rapid Style Adaptation Using Residual Error Embedding for Expressive Speech Synthesis                            | not started     | https://goo.gl/Jy8WvF                        |
+| Neural Discrete Representation Learning                            | idea. not started     | https://arxiv.org/pdf/1711.00937.pdf                        |
+| Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data                            | idea. not started     | https://arxiv.org/pdf/1709.07902.pdf                        |
+
 
 # Emotion
 
@@ -26,3 +29,4 @@ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.5905&rep=rep1&type=
 | Attentive Convolutional Neural Network based Speech Emotion Recognition: A Study on the Impact of Input Features, Signal Length, and Acted Speech | finished     | https://arxiv.org/pdf/1706.00612.pdf                        |
 | Emotional Statistical Parametric Speech Synthesis Using LSTM-RNNs| not started     | https://ieeexplore.ieee.org/document/8282282                        |
 | An Investigation to Transplant Emotional Expressions in DNN-based TTS Synthesis Synthesis| not started     | https://ieeexplore.ieee.org/document/8282231                       |
+| Unsupervised clustering of emotion and voice styles for expressive tts.| not started     | https://ieeexplore.ieee.org/document/6288797                       |

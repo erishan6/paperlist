@@ -1,8 +1,13 @@
-# Stylelayer
-
 Text-to-Speech Synthesis by Paul Taylor
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.5905&rep=rep1&type=pdf
 
+Experimental and theoretical advances in prosody: A review
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3216045/
+
+Intonational Phonology by Ladd
+https://books.google.de/books?id=ys_jtGM5WjYC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+
+# Base paper
 | paper                                                        | status       | link/tag                                                     |
 | ------------------------------------------------------------ | ------------ | ---------------------------------- |
 |  Tacotron: Towards End-to-End Speech Synthesis                                 | finished     | https://arxiv.org/pdf/1703.10135.pdf                      
@@ -10,6 +15,12 @@ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.5905&rep=rep1&type=
 | Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions                                      | finished     | https://arxiv.org/pdf/1712.05884.pdf https://ai.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html                        |
 | Towards End-to-End Prosody Transfer for Expressive Speech Synthesis with Tacotron | low understanding     | https://arxiv.org/pdf/1803.09047.pdf https://ai.googleblog.com/2018/03/expressive-speech-synthesis-with.html                        |
 | Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis | finished     | https://arxiv.org/pdf/1803.09017.pdf  https://ai.googleblog.com/2018/03/expressive-speech-synthesis-with.html                      |
+
+
+# Stylelayer
+
+| paper                                                        | status       | link/tag                                                     |
+| ------------------------------------------------------------ | ------------ | ---------------------------------- |
 | Predicting Expressive Speaking Style From Text In End-To-End Speech Synthesis| in progress     | https://arxiv.org/pdf/1808.01410.pdf                        |
 | Hierarchical Generative Modeling for Controllable Speech Synthesis  | not started     | https://arxiv.org/pdf/1810.07217.pdf                        |
 | LEARNING LATENT REPRESENTATIONS FOR STYLE CONTROL AND TRANSFER IN END-TO-END SPEECH SYNTHESIS                   | not started     | https://arxiv.org/pdf/1812.04342.pdf                        |

@@ -7,6 +7,10 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3216045/
 Intonational Phonology by Ladd
 https://books.google.de/books?id=ys_jtGM5WjYC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
 
+Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation
+https://arxiv.org/pdf/1406.1078.pdf
+
+
 # Base paper
 | paper                                                        | status       | link/tag                                                     |
 | ------------------------------------------------------------ | ------------ | ---------------------------------- |
@@ -31,6 +35,10 @@ https://books.google.de/books?id=ys_jtGM5WjYC&printsec=frontcover&source=gbs_ge_
 | Rapid Style Adaptation Using Residual Error Embedding for Expressive Speech Synthesis                            | not started     | https://goo.gl/Jy8WvF                        |
 | Neural Discrete Representation Learning                            | idea. not started     | https://arxiv.org/pdf/1711.00937.pdf                        |
 | Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data                            | idea. not started     | https://arxiv.org/pdf/1709.07902.pdf                        |
+| Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
+| Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
+| PROTRAN: a prosody transplantation tool for text-to-speech applications                            | idea. not started     | https://www.isca-speech.org/archive/archive_papers/icslp_1994/i94_0423.pdf                        |
+| Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
 | Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
 | Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
 

@@ -36,10 +36,16 @@ https://arxiv.org/pdf/1406.1078.pdf
 | Neural Discrete Representation Learning                            | idea. not started     | https://arxiv.org/pdf/1711.00937.pdf                        |
 | Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data                            | idea. not started     | https://arxiv.org/pdf/1709.07902.pdf                        |
 | Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
-| Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
+| Deep Encoder-Decoder Models for Unsupervised Learning of Controllable Speech Synthesis                            | idea. not started     | https://arxiv.org/pdf/1807.11470.pdf                       |
 | PROTRAN: a prosody transplantation tool for text-to-speech applications                            | idea. not started     | https://www.isca-speech.org/archive/archive_papers/icslp_1994/i94_0423.pdf                        |
 | Expressive Speech Synthesis via Modeling Expressions with Variational Autoencoder                            | idea. not started     | https://arxiv.org/pdf/1804.02135.pdf                        |
 | Learning Latent Representations for Speech Generation and Transformation                            | idea. not started     | https://arxiv.org/pdf/1704.04222.pdf                        |
+| Scaling and bias codes for modeling speaker-adaptive DNN-based speech synthesis systems                            | idea. not started     | https://arxiv.org/pdf/1807.11632.pdf                        |
+| A Comparison of Expressive Speech Synthesis Approaches based on Neural Network                            | idea. not started     | http://lxie.npu-aslp.org/papers/2018ASMMC-XLM.pdf                        |
+| Investigating context features hidden in End-to-End TTS                            | idea. not started     | https://arxiv.org/pdf/1811.01376.pdf                        |
+| Improving Unsupervised Style Transfer in end-to-end Speech Synthesis with end-to-end Speech Recognition                            | idea. not started     | http://speech.ee.ntu.edu.tw/~tlkagk/paper/asr-guided-tacotron.pdf                        |
+| Speech, Prosody, and Machines: Nine Challenges for Prosody Research                            | idea. not started     | https://www.isca-speech.org/archive/SpeechProsody_2018/pdfs/_Inv-5.pdf                        |
+| Style Transfer and Extraction for the Handwritten Letters Using Deep Learning                            | idea. not started     | https://arxiv.org/pdf/1812.07103.pdf                        |
 | Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
 
 
@@ -51,3 +57,7 @@ https://arxiv.org/pdf/1406.1078.pdf
 | Emotional Statistical Parametric Speech Synthesis Using LSTM-RNNs| not started     | https://ieeexplore.ieee.org/document/8282282                        |
 | An Investigation to Transplant Emotional Expressions in DNN-based TTS Synthesis Synthesis| not started     | https://ieeexplore.ieee.org/document/8282231                       |
 | Unsupervised clustering of emotion and voice styles for expressive tts.| not started     | https://ieeexplore.ieee.org/document/6288797                       |
+| A Comparison of Expressive Speech Synthesis Approaches based on Neural Network                            | idea. not started     | http://lxie.npu-aslp.org/papers/2018ASMMC-XLM.pdf                        |
+| A DNN-based emotional speech synthesis by speaker adaptation                            | idea. not started     | http://www.apsipa.org/proceedings/2018/pdfs/0000633.pdf                        |
+| Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
+| Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |

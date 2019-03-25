@@ -46,7 +46,7 @@ https://arxiv.org/pdf/1406.1078.pdf
 | Improving Unsupervised Style Transfer in end-to-end Speech Synthesis with end-to-end Speech Recognition                            | idea. not started     | http://speech.ee.ntu.edu.tw/~tlkagk/paper/asr-guided-tacotron.pdf                        |
 | Speech, Prosody, and Machines: Nine Challenges for Prosody Research                            | idea. not started     | https://www.isca-speech.org/archive/SpeechProsody_2018/pdfs/_Inv-5.pdf                        |
 | Style Transfer and Extraction for the Handwritten Letters Using Deep Learning                            | idea. not started     | https://arxiv.org/pdf/1812.07103.pdf                        |
-| Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
+| Disentangled sequential autoencoder                            | idea. not started     | https://arxiv.org/pdf/1803.02991.pdf                        |
 
 
 # Emotion

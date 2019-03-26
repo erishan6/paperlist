@@ -47,6 +47,9 @@ https://arxiv.org/pdf/1406.1078.pdf
 | Speech, Prosody, and Machines: Nine Challenges for Prosody Research                            | idea. not started     | https://www.isca-speech.org/archive/SpeechProsody_2018/pdfs/_Inv-5.pdf                        |
 | Style Transfer and Extraction for the Handwritten Letters Using Deep Learning                            | idea. not started     | https://arxiv.org/pdf/1812.07103.pdf                        |
 | Disentangled sequential autoencoder                            | idea. not started     | https://arxiv.org/pdf/1803.02991.pdf                        |
+| Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        
+| Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
+| Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
 
 
 # Emotion
@@ -59,5 +62,7 @@ https://arxiv.org/pdf/1406.1078.pdf
 | Unsupervised clustering of emotion and voice styles for expressive tts.| not started     | https://ieeexplore.ieee.org/document/6288797                       |
 | A Comparison of Expressive Speech Synthesis Approaches based on Neural Network                            | idea. not started     | http://lxie.npu-aslp.org/papers/2018ASMMC-XLM.pdf                        |
 | A DNN-based emotional speech synthesis by speaker adaptation                            | idea. not started     | http://www.apsipa.org/proceedings/2018/pdfs/0000633.pdf                        |
+| Speaker Representations for Speaker Adaptation in Multiple Speakers  BLSTM-RNN-based Speech Synthesis                            | idea. not started     | https://pdfs.semanticscholar.org/029c/5a65cb70be4aaab3ee20c3e0264322b55b08.pdf?_ga=2.99899293.261563231.1553590903-789343367.1553590903                        |
+| Emotional statistical parametric speech synthesis using LSTM-RNNs                            | idea. not started     | https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8282282                        |
 | Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
 | Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |

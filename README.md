@@ -62,7 +62,7 @@ https://arxiv.org/pdf/1406.1078.pdf
 | Unsupervised clustering of emotion and voice styles for expressive tts.| not started     | https://ieeexplore.ieee.org/document/6288797                       |
 | A Comparison of Expressive Speech Synthesis Approaches based on Neural Network                            | idea. not started     | http://lxie.npu-aslp.org/papers/2018ASMMC-XLM.pdf                        |
 | A DNN-based emotional speech synthesis by speaker adaptation                            | idea. not started     | http://www.apsipa.org/proceedings/2018/pdfs/0000633.pdf                        |
-| Speaker Representations for Speaker Adaptation in Multiple Speakers  BLSTM-RNN-based Speech Synthesis                            | idea. not started     | https://pdfs.semanticscholar.org/029c/5a65cb70be4aaab3ee20c3e0264322b55b08.pdf?_ga=2.99899293.261563231.1553590903-789343367.1553590903                        |
+| Speaker Representations for Speaker Adaptation in Multiple Speakers  BLSTM-RNN-based Speech Synthesis                            | idea. not started     | https://goo.gl/LynbNz                        |
 | Emotional statistical parametric speech synthesis using LSTM-RNNs                            | idea. not started     | https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8282282                        |
 | Emotional transplant in statistical speech synthesis based on emotion additive model                            | idea. not started     | https://www.isca-speech.org/archive/interspeech_2015/papers/i15_0274.pdf                        |
 | Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |

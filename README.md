@@ -56,11 +56,11 @@ https://arxiv.org/pdf/1406.1078.pdf
 
 | paper                                                        | status       | link/tag                                                     |
 | ---------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------ |
+| A Comparison of Expressive Speech Synthesis Approaches based on Neural Network                            | great paper. can be used     | http://lxie.npu-aslp.org/papers/2018ASMMC-XLM.pdf                        |
 | Attentive Convolutional Neural Network based Speech Emotion Recognition: A Study on the Impact of Input Features, Signal Length, and Acted Speech | finished     | https://arxiv.org/pdf/1706.00612.pdf                        |
 | Emotional Statistical Parametric Speech Synthesis Using LSTM-RNNs| not started     | https://ieeexplore.ieee.org/document/8282282                        |
 | An Investigation to Transplant Emotional Expressions in DNN-based TTS Synthesis Synthesis| not started     | https://ieeexplore.ieee.org/document/8282231                       |
 | Unsupervised clustering of emotion and voice styles for expressive tts.| not started     | https://ieeexplore.ieee.org/document/6288797                       |
-| A Comparison of Expressive Speech Synthesis Approaches based on Neural Network                            | idea. not started     | http://lxie.npu-aslp.org/papers/2018ASMMC-XLM.pdf                        |
 | A DNN-based emotional speech synthesis by speaker adaptation                            | idea. not started     | http://www.apsipa.org/proceedings/2018/pdfs/0000633.pdf                        |
 | Speaker Representations for Speaker Adaptation in Multiple Speakers  BLSTM-RNN-based Speech Synthesis                            | idea. not started     | https://goo.gl/LynbNz                        |
 | Emotional statistical parametric speech synthesis using LSTM-RNNs                            | idea. not started     | https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8282282                        |

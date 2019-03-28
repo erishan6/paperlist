@@ -47,7 +47,7 @@ https://arxiv.org/pdf/1406.1078.pdf
 | Disentangled sequential autoencoder                            | idea. not started     | https://arxiv.org/pdf/1803.02991.pdf                        |
 | FEATURE BASED ADAPTATION FOR SPEAKING STYLE SYNTHESIS                            | idea. not started     | https://goo.gl/f95mGb                       
 | Style Transfer Through Back-Translation                           | idea. not started     | https://aclweb.org/anthology/P18-1080                        |
-| Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
+| Variational Autoencoders for Learning Latent Representations of Speech Emotion                           | idea. not started     | https://arxiv.org/pdf/1712.08708v1.pdf                        |
 
 
 # Emotion

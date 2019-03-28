@@ -29,8 +29,6 @@ https://arxiv.org/pdf/1406.1078.pdf
 | Predicting Expressive Speaking Style From Text In End-To-End Speech Synthesis| finished     | https://arxiv.org/pdf/1808.01410.pdf                        |
 | Hierarchical Generative Modeling for Controllable Speech Synthesis  | finished     | https://arxiv.org/pdf/1810.07217.pdf                        |
 | Disentangling Correlated Speaker and Noise for Speech Synthesis via Data Augmentation and Adversarial Factorization                   | finished     | https://openreview.net/pdf?id=Bkg9ZeBB37                        |
-| VOICELOOP: VOICE FITTING AND SYNTHESIS VIA A PHONOLOGICAL LOOP                   | v. imp but not done not started     | https://arxiv.org/pdf/1707.06588.pdf                        |
-| Principles for learning controllable TTS from annotated and latent variation                   | imp but not done not started | https://www.isca-speech.org/archive/Interspeech_2017/pdfs/0171.PDF                        |
 | A Style Control Technique for HMM-Based Speech Synthesis                            | not started     | https://goo.gl/Y9caHX                        |
 | Rapid Style Adaptation Using Residual Error Embedding for Expressive Speech Synthesis                            | not started     | https://goo.gl/Jy8WvF                        |
 | Neural Discrete Representation Learning                            | idea. not started     | https://arxiv.org/pdf/1711.00937.pdf                        |
@@ -66,3 +64,15 @@ https://arxiv.org/pdf/1406.1078.pdf
 | Emotional statistical parametric speech synthesis using LSTM-RNNs                            | idea. not started     | https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8282282                        |
 | Emotional transplant in statistical speech synthesis based on emotion additive model                            | idea. not started     | https://www.isca-speech.org/archive/interspeech_2015/papers/i15_0274.pdf                        |
 | Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
+
+
+
+
+# Compare paper
+
+| paper                                                        | status       | link/tag                                                     |
+| ---------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------ |
+| VOICELOOP: VOICE FITTING AND SYNTHESIS VIA A PHONOLOGICAL LOOP                   | not imp     | https://arxiv.org/pdf/1707.06588.pdf                        |
+| CHAR2WAV: END-TO-END SPEECH SYNTHESIS                   | not imp      | https://mila.quebec/wp-content/uploads/2017/02/end-end-speech.pdf                       |
+| DEEP VOICE 3: SCALING TEXT-TO-SPEECH WITH CONVOLUTIONAL SEQUENCE LEARNING                   | not imp     | https://arxiv.org/pdf/1710.07654.pdf                       |
+| VOICELOOP: VOICE FITTING AND SYNTHESIS VIA A PHONOLOGICAL LOOP                   | not imp     | https://arxiv.org/pdf/1707.06588.pdf                        |

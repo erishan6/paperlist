@@ -30,7 +30,7 @@ https://arxiv.org/pdf/1406.1078.pdf
 | Hierarchical Generative Modeling for Controllable Speech Synthesis  | finished     | https://arxiv.org/pdf/1810.07217.pdf                        |
 | Disentangling Correlated Speaker and Noise for Speech Synthesis via Data Augmentation and Adversarial Factorization                   | finished     | https://openreview.net/pdf?id=Bkg9ZeBB37                        |
 | A Style Control Technique for HMM-Based Speech Synthesis                            | not started     | https://goo.gl/Y9caHX                        |
-| Rapid Style Adaptation Using Residual Error Embedding for Expressive Speech Synthesis                            | not started     | https://goo.gl/Jy8WvF                        |
+| Rapid Style Adaptation Using Residual Error Embedding for Expressive Speech Synthesis                            | can use this     | https://goo.gl/Jy8WvF                        |
 | Neural Discrete Representation Learning                            | idea. not started     | https://arxiv.org/pdf/1711.00937.pdf                        |
 | Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data                            | idea. not started     | https://arxiv.org/pdf/1709.07902.pdf                        |
 | Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
@@ -46,7 +46,7 @@ https://arxiv.org/pdf/1406.1078.pdf
 | Style Transfer and Extraction for the Handwritten Letters Using Deep Learning                            | idea. not started     | https://arxiv.org/pdf/1812.07103.pdf                        |
 | Disentangled sequential autoencoder                            | idea. not started     | https://arxiv.org/pdf/1803.02991.pdf                        |
 | FEATURE BASED ADAPTATION FOR SPEAKING STYLE SYNTHESIS                            | idea. not started     | https://goo.gl/f95mGb                       
-| Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
+| Style Transfer Through Back-Translation                           | idea. not started     | https://aclweb.org/anthology/P18-1080                        |
 | Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
 
 

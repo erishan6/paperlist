@@ -45,7 +45,7 @@ https://arxiv.org/pdf/1406.1078.pdf
 | Speech, Prosody, and Machines: Nine Challenges for Prosody Research                            | idea. not started     | https://www.isca-speech.org/archive/SpeechProsody_2018/pdfs/_Inv-5.pdf                        |
 | Style Transfer and Extraction for the Handwritten Letters Using Deep Learning                            | idea. not started     | https://arxiv.org/pdf/1812.07103.pdf                        |
 | Disentangled sequential autoencoder                            | idea. not started     | https://arxiv.org/pdf/1803.02991.pdf                        |
-| Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        
+| FEATURE BASED ADAPTATION FOR SPEAKING STYLE SYNTHESIS                            | idea. not started     | https://goo.gl/f95mGb                       
 | Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
 | Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
 

@@ -17,6 +17,9 @@ https://github.com/Naresh1318/Adversarial_Autoencoder
 https://github.com/conan7882/adversarial-autoencoders
 
 
+IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf 
+
+
 # Base paper
 | paper                                                        | status       | link/tag                                                     |
 | ------------------------------------------------------------ | ------------ | ---------------------------------- |

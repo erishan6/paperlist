@@ -12,6 +12,9 @@ https://arxiv.org/pdf/1406.1078.pdf
 
 Adversarial Autoencoders https://arxiv.org/pdf/1511.05644.pdf
 
+https://github.com/Naresh1318/Adversarial_Autoencoder
+
+https://github.com/conan7882/adversarial-autoencoders
 
 
 # Base paper

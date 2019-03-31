@@ -55,7 +55,7 @@ IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf
 | Style Transfer and Extraction for the Handwritten Letters Using Deep Learning                            | idea. not started     | https://arxiv.org/pdf/1812.07103.pdf                        |
 | Disentangled sequential autoencoder                            | idea. not started     | https://arxiv.org/pdf/1803.02991.pdf                        |
 | FEATURE BASED ADAPTATION FOR SPEAKING STYLE SYNTHESIS                            | idea. not started     | https://goo.gl/f95mGb                       
-| Style Transfer Through Back-Translation                           | idea. not started     | https://aclweb.org/anthology/P18-1080                        |
+| Style Transfer Through Back-Translation                           | cant be used in end2end     | https://aclweb.org/anthology/P18-1080                        |
 | Variational Autoencoders for Learning Latent Representations of Speech Emotion                           | idea. not started     | https://arxiv.org/pdf/1712.08708v1.pdf                        |
 
 

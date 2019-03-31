@@ -10,6 +10,9 @@ https://books.google.de/books?id=ys_jtGM5WjYC&printsec=frontcover&source=gbs_ge_
 Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation
 https://arxiv.org/pdf/1406.1078.pdf
 
+Adversarial Autoencoders https://arxiv.org/pdf/1511.05644.pdf
+
+
 
 # Base paper
 | paper                                                        | status       | link/tag                                                     |

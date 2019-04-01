@@ -39,7 +39,7 @@ IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf
 | Hierarchical Generative Modeling for Controllable Speech Synthesis  | finished     | https://arxiv.org/pdf/1810.07217.pdf                        |
 | Disentangling Correlated Speaker and Noise for Speech Synthesis via Data Augmentation and Adversarial Factorization                   | finished     | https://openreview.net/pdf?id=Bkg9ZeBB37                        |
 | Rapid Style Adaptation Using Residual Error Embedding for Expressive Speech Synthesis                            | can use this     | https://goo.gl/Jy8WvF                        |
-| Neural Discrete Representation Learning                            | idea. not started     | https://arxiv.org/pdf/1711.00937.pdf                        |
+| Neural Discrete Representation Learning                            | idea started     | https://arxiv.org/pdf/1711.00937.pdf                        |
 | A Style Control Technique for HMM-Based Speech Synthesis                            | not started     | https://goo.gl/Y9caHX                        |
 | Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data                            | idea. not started     | https://arxiv.org/pdf/1709.07902.pdf                        |
 | Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |

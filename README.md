@@ -53,7 +53,7 @@ IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf
 | Learning Latent Representations for Speech Generation and Transformation                            | idea. not started     | https://arxiv.org/pdf/1704.04222.pdf                        |
 | Style Transfer and Extraction for the Handwritten Letters Using Deep Learning                            | idea. not started     | https://arxiv.org/pdf/1812.07103.pdf                        |
 | Disentangled sequential autoencoder                            | idea. not started     | https://arxiv.org/pdf/1803.02991.pdf                        |
-| FEATURE BASED ADAPTATION FOR SPEAKING STYLE SYNTHESIS                            | idea. not started     | https://goo.gl/f95mGb                       |
+| FEATURE BASED ADAPTATION FOR SPEAKING STYLE SYNTHESIS                            | not a great paper wrt my rs view     | https://goo.gl/f95mGb                       |
 
 
 # Emotion

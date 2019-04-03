@@ -42,7 +42,6 @@ IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf
 | Neural Discrete Representation Learning                            | read again for clarity      | https://arxiv.org/pdf/1711.00937.pdf                        |
 | A Style Control Technique for HMM-Based Speech Synthesis                            | cant be extended     | https://goo.gl/Y9caHX                        |
 | Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data                            | idea. not started     | https://arxiv.org/pdf/1709.07902.pdf                        |
-| Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
 | Deep Encoder-Decoder Models for Unsupervised Learning of Controllable Speech Synthesis                            | idea. not started     | https://arxiv.org/pdf/1807.11470.pdf                       |
 | PROTRAN: a prosody transplantation tool for text-to-speech applications                            | idea. not started     | https://www.isca-speech.org/archive/archive_papers/icslp_1994/i94_0423.pdf                        |
 | Expressive Speech Synthesis via Modeling Expressions with Variational Autoencoder                            | idea. not started     | https://arxiv.org/pdf/1804.02135.pdf                        |
@@ -72,7 +71,6 @@ IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf
 | Speaker Representations for Speaker Adaptation in Multiple Speakers  BLSTM-RNN-based Speech Synthesis                            | idea. not started     | https://goo.gl/LynbNz                        |
 | Emotional statistical parametric speech synthesis using LSTM-RNNs                            | idea. not started     | https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8282282                        |
 | Emotional transplant in statistical speech synthesis based on emotion additive model                            | idea. not started     | https://www.isca-speech.org/archive/interspeech_2015/papers/i15_0274.pdf                        |
-| Unsupervised learning for expressive speech synthesis                            | idea. not started     | http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf                        |
 
 
 

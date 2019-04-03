@@ -46,7 +46,7 @@ IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf
 | Expressive Speech Synthesis via Modeling Expressions with Variational Autoencoder                            | Better implementations are present     | https://arxiv.org/pdf/1804.02135.pdf                        |
 | Learning Latent Representations for Speech Generation and Transformation                            | idea. not started     | https://arxiv.org/pdf/1704.04222.pdf                        |
 | Scaling and bias codes for modeling speaker-adaptive DNN-based speech synthesis systems                            | idea. not started     | https://arxiv.org/pdf/1807.11632.pdf                        |
-| A Comparison of Expressive Speech Synthesis Approaches based on Neural Network                            | idea. not started     | http://lxie.npu-aslp.org/papers/2018ASMMC-XLM.pdf                        |
+| A Comparison of Expressive Speech Synthesis Approaches based on Neural Network                            | great paper. can be used   | http://lxie.npu-aslp.org/papers/2018ASMMC-XLM.pdf                        |
 | Investigating context features hidden in End-to-End TTS                            | idea. not started     | https://arxiv.org/pdf/1811.01376.pdf                        |
 | Improving Unsupervised Style Transfer in end-to-end Speech Synthesis with end-to-end Speech Recognition                            | idea. not started     | http://speech.ee.ntu.edu.tw/~tlkagk/paper/asr-guided-tacotron.pdf                        |
 | Speech, Prosody, and Machines: Nine Challenges for Prosody Research                            | idea. not started     | https://www.isca-speech.org/archive/SpeechProsody_2018/pdfs/_Inv-5.pdf                        |

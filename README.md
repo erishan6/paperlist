@@ -43,7 +43,6 @@ IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf
 | A Style Control Technique for HMM-Based Speech Synthesis                            | cant be extended     | https://goo.gl/Y9caHX                        |
 | Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data                            | similar work done by google     | https://arxiv.org/pdf/1709.07902.pdf                        |
 | Deep Encoder-Decoder Models for Unsupervised Learning of Controllable Speech Synthesis                            | idea. not started     | https://arxiv.org/pdf/1807.11470.pdf                       |
-| PROTRAN: a prosody transplantation tool for text-to-speech applications                            | idea. not started     | https://www.isca-speech.org/archive/archive_papers/icslp_1994/i94_0423.pdf                        |
 | Expressive Speech Synthesis via Modeling Expressions with Variational Autoencoder                            | Better implementations are present     | https://arxiv.org/pdf/1804.02135.pdf                        |
 | Learning Latent Representations for Speech Generation and Transformation                            | idea. not started     | https://arxiv.org/pdf/1704.04222.pdf                        |
 | Scaling and bias codes for modeling speaker-adaptive DNN-based speech synthesis systems                            | idea. not started     | https://arxiv.org/pdf/1807.11632.pdf                        |

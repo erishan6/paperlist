@@ -71,6 +71,7 @@ IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf
 | Speaker Representations for Speaker Adaptation in Multiple Speakers  BLSTM-RNN-based Speech Synthesis                            | idea. not started     | https://goo.gl/LynbNz                        |
 | Emotional statistical parametric speech synthesis using LSTM-RNNs                            | idea. not started     | https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8282282                        |
 | Emotional transplant in statistical speech synthesis based on emotion additive model                            | idea. not started     | https://www.isca-speech.org/archive/interspeech_2015/papers/i15_0274.pdf                        |
+| Emotional End-to-End Neural Speech synthesizer                           | idea. not started     | https://arxiv.org/pdf/1711.05447.pdf                     |
 
 
 

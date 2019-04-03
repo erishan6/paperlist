@@ -42,19 +42,19 @@ IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf
 | Neural Discrete Representation Learning                            | read again for clarity      | https://arxiv.org/pdf/1711.00937.pdf                        |
 | A Style Control Technique for HMM-Based Speech Synthesis                            | cant be extended     | https://goo.gl/Y9caHX                        |
 | Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data                            | similar work done by google     | https://arxiv.org/pdf/1709.07902.pdf                        |
-| Deep Encoder-Decoder Models for Unsupervised Learning of Controllable Speech Synthesis                            | idea. not started     | https://arxiv.org/pdf/1807.11470.pdf                       |
 | Expressive Speech Synthesis via Modeling Expressions with Variational Autoencoder                            | Better implementations are present     | https://arxiv.org/pdf/1804.02135.pdf                        |
-| Learning Latent Representations for Speech Generation and Transformation                            | idea. not started     | https://arxiv.org/pdf/1704.04222.pdf                        |
-| Scaling and bias codes for modeling speaker-adaptive DNN-based speech synthesis systems                            | idea. not started     | https://arxiv.org/pdf/1807.11632.pdf                        |
 | A Comparison of Expressive Speech Synthesis Approaches based on Neural Network                            | great paper. can be used   | http://lxie.npu-aslp.org/papers/2018ASMMC-XLM.pdf                        |
 | Investigating context features hidden in End-to-End TTS                            | good read but not relevant    | https://arxiv.org/pdf/1811.01376.pdf                        |
 | Improving Unsupervised Style Transfer in end-to-end Speech Synthesis with end-to-end Speech Recognition                            | finished     | http://speech.ee.ntu.edu.tw/~tlkagk/paper/asr-guided-tacotron.pdf                        |
+| Style Transfer Through Back-Translation                           | cant be used in end2end     | https://aclweb.org/anthology/P18-1080                        |
+| Variational Autoencoders for Learning Latent Representations of Speech Emotion                           | idea. not started     | https://arxiv.org/pdf/1712.08708v1.pdf                        |
+| Deep Encoder-Decoder Models for Unsupervised Learning of Controllable Speech Synthesis                            | idea. not started     | https://arxiv.org/pdf/1807.11470.pdf                       |
+| Learning Latent Representations for Speech Generation and Transformation                            | idea. not started     | https://arxiv.org/pdf/1704.04222.pdf                        |
+| Scaling and bias codes for modeling speaker-adaptive DNN-based speech synthesis systems                            | idea. not started     | https://arxiv.org/pdf/1807.11632.pdf                        |
 | Speech, Prosody, and Machines: Nine Challenges for Prosody Research                            | idea. not started     | https://www.isca-speech.org/archive/SpeechProsody_2018/pdfs/_Inv-5.pdf                        |
 | Style Transfer and Extraction for the Handwritten Letters Using Deep Learning                            | idea. not started     | https://arxiv.org/pdf/1812.07103.pdf                        |
 | Disentangled sequential autoencoder                            | idea. not started     | https://arxiv.org/pdf/1803.02991.pdf                        |
-| FEATURE BASED ADAPTATION FOR SPEAKING STYLE SYNTHESIS                            | idea. not started     | https://goo.gl/f95mGb                       
-| Style Transfer Through Back-Translation                           | cant be used in end2end     | https://aclweb.org/anthology/P18-1080                        |
-| Variational Autoencoders for Learning Latent Representations of Speech Emotion                           | idea. not started     | https://arxiv.org/pdf/1712.08708v1.pdf                        |
+| FEATURE BASED ADAPTATION FOR SPEAKING STYLE SYNTHESIS                            | idea. not started     | https://goo.gl/f95mGb                       |
 
 
 # Emotion

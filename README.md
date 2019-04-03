@@ -41,7 +41,7 @@ IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf
 | Rapid Style Adaptation Using Residual Error Embedding for Expressive Speech Synthesis                            | can use this     | https://goo.gl/Jy8WvF                        |
 | Neural Discrete Representation Learning                            | read again for clarity      | https://arxiv.org/pdf/1711.00937.pdf                        |
 | A Style Control Technique for HMM-Based Speech Synthesis                            | cant be extended     | https://goo.gl/Y9caHX                        |
-| Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data                            | idea. not started     | https://arxiv.org/pdf/1709.07902.pdf                        |
+| Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data                            | similar work done by google     | https://arxiv.org/pdf/1709.07902.pdf                        |
 | Deep Encoder-Decoder Models for Unsupervised Learning of Controllable Speech Synthesis                            | idea. not started     | https://arxiv.org/pdf/1807.11470.pdf                       |
 | PROTRAN: a prosody transplantation tool for text-to-speech applications                            | idea. not started     | https://www.isca-speech.org/archive/archive_papers/icslp_1994/i94_0423.pdf                        |
 | Expressive Speech Synthesis via Modeling Expressions with Variational Autoencoder                            | idea. not started     | https://arxiv.org/pdf/1804.02135.pdf                        |

@@ -65,8 +65,8 @@ IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf
 | Emotional Statistical Parametric Speech Synthesis Using LSTM-RNNs| finished    | https://ieeexplore.ieee.org/document/8282282                        |
 | An Investigation to Transplant Emotional Expressions in DNN-based TTS Synthesis Synthesis| can be used with paper 1     | https://ieeexplore.ieee.org/document/8282231                       |
 | Unsupervised clustering of emotion and voice styles for expressive tts.| finished    | https://ieeexplore.ieee.org/document/6288797                       |
-| A DNN-based emotional speech synthesis by speaker adaptation                            | idea. not started     | http://www.apsipa.org/proceedings/2018/pdfs/0000633.pdf                        |
-| Speaker Representations for Speaker Adaptation in Multiple Speakers  BLSTM-RNN-based Speech Synthesis                            | idea. not started     | https://goo.gl/LynbNz                        |
+| A DNN-based emotional speech synthesis by speaker adaptation                            | similar to other paper     | http://www.apsipa.org/proceedings/2018/pdfs/0000633.pdf                        |
+| Speaker Representations for Speaker Adaptation in Multiple Speakers  BLSTM-RNN-based Speech Synthesis                            | not a great paper wrt my rs view     | https://goo.gl/LynbNz                        |
 | Emotional transplant in statistical speech synthesis based on emotion additive model                            | finished      | https://www.isca-speech.org/archive/interspeech_2015/papers/i15_0274.pdf                        |
 | Emotional End-to-End Neural Speech synthesizer                           | finished     | https://arxiv.org/pdf/1711.05447.pdf                     |
 

@@ -51,7 +51,6 @@ IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf
 | Variational Autoencoders for Learning Latent Representations of Speech Emotion                           | idea. not started     | https://arxiv.org/pdf/1712.08708v1.pdf                        |
 | Deep Encoder-Decoder Models for Unsupervised Learning of Controllable Speech Synthesis                            | idea. not started     | https://arxiv.org/pdf/1807.11470.pdf                       |
 | Learning Latent Representations for Speech Generation and Transformation                            | idea. not started     | https://arxiv.org/pdf/1704.04222.pdf                        |
-| Style Transfer and Extraction for the Handwritten Letters Using Deep Learning                            | idea. not started     | https://arxiv.org/pdf/1812.07103.pdf                        |
 | Disentangled sequential autoencoder                            | idea. not started     | https://arxiv.org/pdf/1803.02991.pdf                        |
 | FEATURE BASED ADAPTATION FOR SPEAKING STYLE SYNTHESIS                            | not a great paper wrt my rs view     | https://goo.gl/f95mGb                       |
 

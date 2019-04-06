@@ -17,6 +17,9 @@ https://github.com/Naresh1318/Adversarial_Autoencoder
 https://github.com/conan7882/adversarial-autoencoders
 
 
+https://www.cl.uni-heidelberg.de/courses/ws14/deepl/BengioETAL12.pdf
+
+
 IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf 
 
 

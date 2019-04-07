@@ -83,3 +83,7 @@ IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf
 | CHAR2WAV: END-TO-END SPEECH SYNTHESIS                   | not imp      | https://mila.quebec/wp-content/uploads/2017/02/end-end-speech.pdf                       |
 | DEEP VOICE 3: SCALING TEXT-TO-SPEECH WITH CONVOLUTIONAL SEQUENCE LEARNING                   | not imp     | https://arxiv.org/pdf/1710.07654.pdf                       |
 | VOICELOOP: VOICE FITTING AND SYNTHESIS VIA A PHONOLOGICAL LOOP                   | not imp     | https://arxiv.org/pdf/1707.06588.pdf                        |
+
+
+
+One of the thesis https://github.com/FeiCoding/State_of_the_art_tacotron2_model_reproduction  

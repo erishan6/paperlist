@@ -85,5 +85,6 @@ IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf
 | VOICELOOP: VOICE FITTING AND SYNTHESIS VIA A PHONOLOGICAL LOOP                   | not imp     | https://arxiv.org/pdf/1707.06588.pdf                        |
 
 
-
-One of the thesis https://github.com/FeiCoding/State_of_the_art_tacotron2_model_reproduction  
+PHD thesis http://veu.talp.cat/igor/PhD_Igor_Jauk-June2017.pdf Unsupervised Learning
+for Expressive Speech Synthesis
+MSc thesis https://github.com/FeiCoding/State_of_the_art_tacotron2_model_reproduction  Reproduction & Improvement of State-of-art TTS model

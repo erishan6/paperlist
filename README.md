@@ -51,10 +51,10 @@ IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf
 | Improving Unsupervised Style Transfer in end-to-end Speech Synthesis with end-to-end Speech Recognition                            | finished     | http://speech.ee.ntu.edu.tw/~tlkagk/paper/asr-guided-tacotron.pdf                        |
 | Style Transfer Through Back-Translation                           | cant be used in end2end     | https://aclweb.org/anthology/P18-1080                        |
 | Speech, Prosody, and Machines: Nine Challenges for Prosody Research                            | read again for lit review not for approach    | https://www.isca-speech.org/archive/SpeechProsody_2018/pdfs/_Inv-5.pdf                        |
+| Learning Latent Representations for Speech Generation and Transformation                            | finished    | https://arxiv.org/pdf/1704.04222.pdf                        |
 | Variational Autoencoders for Learning Latent Representations of Speech Emotion                           | idea. not started     | https://arxiv.org/pdf/1712.08708v1.pdf                        |
-| Deep Encoder-Decoder Models for Unsupervised Learning of Controllable Speech Synthesis                            | idea. not started     | https://arxiv.org/pdf/1807.11470.pdf                       |
-| Learning Latent Representations for Speech Generation and Transformation                            | idea. not started     | https://arxiv.org/pdf/1704.04222.pdf                        |
 | Disentangled sequential autoencoder                            | idea. not started     | https://arxiv.org/pdf/1803.02991.pdf                        |
+| Deep Encoder-Decoder Models for Unsupervised Learning of Controllable Speech Synthesis                            | idea. not started     | https://arxiv.org/pdf/1807.11470.pdf                       |
 | FEATURE BASED ADAPTATION FOR SPEAKING STYLE SYNTHESIS                            | not a great paper wrt my rs view     | https://goo.gl/f95mGb                       |
 
 

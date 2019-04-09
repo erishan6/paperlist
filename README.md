@@ -55,7 +55,7 @@ IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf
 | Disentangled sequential autoencoder                            | idea. not started     | https://arxiv.org/pdf/1803.02991.pdf                        |
 | Deep Encoder-Decoder Models for Unsupervised Learning of Controllable Speech Synthesis                            | idea. not started     | https://arxiv.org/pdf/1807.11470.pdf                       |
 | FEATURE BASED ADAPTATION FOR SPEAKING STYLE SYNTHESIS                            | not a great paper wrt my rs view     | https://goo.gl/f95mGb                       |
-
+| NEURAL TTS STYLIZATION WITH ADVERSARIAL AND COLLABORATIVE GAMES (tts gan)                            | iclr 2019     | https://openreview.net/pdf?id=ByzcS3AcYX                       |
 
 # Emotion
 

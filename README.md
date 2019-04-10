@@ -22,6 +22,7 @@ https://www.cl.uni-heidelberg.de/courses/ws14/deepl/BengioETAL12.pdf
 
 IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf 
 
+Audio Google papers https://google.github.io/tacotron/
 
 # Base paper
 | paper                                                        | status       | link/tag                                                     |

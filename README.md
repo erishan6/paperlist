@@ -52,8 +52,8 @@ IEMOCAP pdf https://sail.usc.edu/iemocap/Busso_2008_iemocap.pdf
 | Style Transfer Through Back-Translation                           | cant be used in end2end     | https://aclweb.org/anthology/P18-1080                        |
 | Speech, Prosody, and Machines: Nine Challenges for Prosody Research                            | read again for lit review not for approach    | https://www.isca-speech.org/archive/SpeechProsody_2018/pdfs/_Inv-5.pdf                        |
 | Learning Latent Representations for Speech Generation and Transformation                            | finished    | https://arxiv.org/pdf/1704.04222.pdf                        |
-| Disentangled sequential autoencoder                            | idea. not started     | https://arxiv.org/pdf/1803.02991.pdf                        |
-| Deep Encoder-Decoder Models for Unsupervised Learning of Controllable Speech Synthesis                            | idea. not started     | https://arxiv.org/pdf/1807.11470.pdf                       |
+| Disentangled sequential autoencoder                            | finished     | https://arxiv.org/pdf/1803.02991.pdf                        |
+| Deep Encoder-Decoder Models for Unsupervised Learning of Controllable Speech Synthesis                            | finished     | https://arxiv.org/pdf/1807.11470.pdf                       |
 | FEATURE BASED ADAPTATION FOR SPEAKING STYLE SYNTHESIS                            | not a great paper wrt my rs view     | https://goo.gl/f95mGb                       |
 | NEURAL TTS STYLIZATION WITH ADVERSARIAL AND COLLABORATIVE GAMES (tts gan)                            | iclr 2019     | https://openreview.net/pdf?id=ByzcS3AcYX   https://researchdemopage.wixsite.com/tts-gan                    |
 

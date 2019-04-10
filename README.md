@@ -38,7 +38,7 @@ Audio Google papers https://google.github.io/tacotron/
 
 | paper                                                        | status       | link/tag                                                     |
 | ------------------------------------------------------------ | ------------ | ---------------------------------- |
-| LEARNING LATENT REPRESENTATIONS FOR STYLE CONTROL AND TRANSFER IN END-TO-END SPEECH SYNTHESIS                   | finished     | https://arxiv.org/pdf/1812.04342.pdf      http://home.ustc.edu.cn/~zyj008/ICASSP2019/                  |
+| LEARNING LATENT REPRESENTATIONS FOR STYLE CONTROL AND TRANSFER IN END-TO-END SPEECH SYNTHESIS                   | ICASSP2019 finished     | https://arxiv.org/pdf/1812.04342.pdf      http://home.ustc.edu.cn/~zyj008/ICASSP2019/                  |
 | Predicting Expressive Speaking Style From Text In End-To-End Speech Synthesis| finished     | https://arxiv.org/pdf/1808.01410.pdf                        |
 | Hierarchical Generative Modeling for Controllable Speech Synthesis  | finished     | https://arxiv.org/pdf/1810.07217.pdf                        |
 | Disentangling Correlated Speaker and Noise for Speech Synthesis via Data Augmentation and Adversarial Factorization                   | finished     | https://openreview.net/pdf?id=Bkg9ZeBB37                        |

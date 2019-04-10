@@ -57,6 +57,7 @@ Audio Google papers https://google.github.io/tacotron/
 | Deep Encoder-Decoder Models for Unsupervised Learning of Controllable Speech Synthesis                            | finished     | https://arxiv.org/pdf/1807.11470.pdf                       |
 | FEATURE BASED ADAPTATION FOR SPEAKING STYLE SYNTHESIS                            | not a great paper wrt my rs view     | https://goo.gl/f95mGb                       |
 | NEURAL TTS STYLIZATION WITH ADVERSARIAL AND COLLABORATIVE GAMES (tts gan)                            | iclr 2019     | https://openreview.net/pdf?id=ByzcS3AcYX   https://researchdemopage.wixsite.com/tts-gan                    |
+| ROBUST AND FINE-GRAINED PROSODY CONTROL OF END-TO-END SPEECH SYNTHESIS                            | icassp 2019     | https://arxiv.org/pdf/1811.02122.pdf   http://neosapience.com/en/research/2018-10-29-icassp/                    |
 
 # Emotion
 

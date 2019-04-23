@@ -7,14 +7,10 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3216045/
 Intonational Phonology by Ladd
 https://books.google.de/books?id=ys_jtGM5WjYC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
 
-Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation
-https://arxiv.org/pdf/1406.1078.pdf
 
 Adversarial Autoencoders https://arxiv.org/pdf/1511.05644.pdf
 
 https://github.com/Naresh1318/Adversarial_Autoencoder
-
-https://github.com/conan7882/adversarial-autoencoders
 
 
 https://www.cl.uni-heidelberg.de/courses/ws14/deepl/BengioETAL12.pdf
@@ -50,7 +46,6 @@ Audio Google papers https://google.github.io/tacotron/
 | A Comparison of Expressive Speech Synthesis Approaches based on Neural Network                            | great paper. can be used   | http://lxie.npu-aslp.org/papers/2018ASMMC-XLM.pdf                        |
 | Investigating context features hidden in End-to-End TTS                            | good read but not relevant    | https://arxiv.org/pdf/1811.01376.pdf                        |
 | Improving Unsupervised Style Transfer in end-to-end Speech Synthesis with end-to-end Speech Recognition                            | finished     | http://speech.ee.ntu.edu.tw/~tlkagk/paper/asr-guided-tacotron.pdf                        |
-| Style Transfer Through Back-Translation                           | cant be used in end2end     | https://aclweb.org/anthology/P18-1080                        |
 | Speech, Prosody, and Machines: Nine Challenges for Prosody Research                            | read again for lit review not for approach    | https://www.isca-speech.org/archive/SpeechProsody_2018/pdfs/_Inv-5.pdf                        |
 | Learning Latent Representations for Speech Generation and Transformation                            | finished    | https://arxiv.org/pdf/1704.04222.pdf                        |
 | Disentangled sequential autoencoder                            | finished     | https://arxiv.org/pdf/1803.02991.pdf                        |
